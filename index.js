@@ -143,7 +143,7 @@ const starts = async (sibuBot = new WAConnection()) => {
 	}), 'cyan'))
 	console.log(color('\n> YT CHANNEL: Sibu ','silver'))
 console.log(color('> GITHUB: Sibuuu07 ','silver'))
-console.log(color('> WA NUMBER: +919337956094 ','silver'))
+console.log(color('> WA NUMBER: +966505275856','silver'))
 console.log(color('  Sibu Bot Inc. 2021','mediumseagreen'))
 	sibuBot.browserDescription = [ 'Subscribe Sibu', 'ubuntu', '3.0' ]
 
@@ -400,7 +400,7 @@ sibuBot.on('group-update', async (anu) => {
 	})
     sibuBot.on('chat-update', async (message) => {
         require('./XeonDoge.js')(sibuBot, message)
-        ownerNumber = ["919337956084@s.whatsapp.net","919337956084@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
+        ownerNumber = ["966505275856@s.whatsapp.net","919337956084@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
         dtod = "919337956084@s.whatsapp.net"
        otod = `${settings.NomorOwner}@s.whatsapp.net`
     })  
