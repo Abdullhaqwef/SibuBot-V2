@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png/revision/latest?cb=20170628120149?format=jpg&name=900" alt="Sibu" width="170" />
 
-## SIBU BOT V2
+## دوافير الثانوي V2
 
 </div>
 
@@ -16,7 +16,7 @@
 </p>
 
 ## Deploy (you can use this button either)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sibuuu07/SibuBot-V2/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abdullhaqwef/SibuBot-V2/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
